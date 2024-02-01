@@ -12,7 +12,7 @@ Prevent WordPress from guessing URLs that don't exist and 404 instead.
 
 == Installation ==
 
-1. Download the zip file from GitHub: https://github.com/ry167/wp-stop-404-guess/archive/master.zip
+1. Download the zip file from GitHub: https://github.com/ryanhalliday/wp-stop-404-guess/archive/master.zip
 2. Upload it to your site.
 
 == Frequently Asked Questions ==
